@@ -4,7 +4,7 @@
 
 [<img src="./animacao/animacao-the-last-of-us.gif" alt="animação das imagens usando javaScript"> ](https://pedro-lpires.github.io/projeto-the-last-us/)
 
-## Tecnologias ultilizadas 🧙‍♂️
+## Tecnologias Ultilizadas 🧙‍♂️
 
 - HTML
 - CSS
